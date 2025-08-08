@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h2 align="left">Hi 👋! My name is Aayush Shrestha and I'm a backend developer and student, from Nepal</h2>
 
 ###
@@ -48,7 +52,8 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/sth3ayush/sth3ayush/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=sth3ayush&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
