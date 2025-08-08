@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h2 align="left">Hi 👋! My name is Aayush Shrestha and I'm a backend developer and student, from Nepal</h2>
+<h2 align="left">Hi 👋! My name is Aayush Shrestha and I'm a backend developer, from Nepal</h2>
 
 ###
 
